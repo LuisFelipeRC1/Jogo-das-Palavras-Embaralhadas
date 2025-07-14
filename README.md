@@ -27,14 +27,22 @@ A arquitetura foi pensada para ser modular e extensível, com uso de **interface
 
 📦 jogo-palavras
 ┣ 📜 Principal.java # Classe principal (main)
+
 ┣ 📜 BancoDePalavras.java # Responsável por sortear palavras do arquivo
+
 ┣ 📜 palavras.txt # Lista de palavras disponíveis para o jogo
+
 ┣ 📜 Embaralhador.java # Interface que define o contrato de embaralhamento
+
 ┣ 📜 EmbaralhadorAleatorio.java # Embaralha letras aleatoriamente
+
 ┣ 📜 MecanicaDoJogo.java # Interface para mecânicas de jogo
+
 ┣ 📜 MecanicaSimples.java # Implementação básica da mecânica
+
 ┣ 📜 JogoTest.java # Classe de testes
-┗ 🖼 diagrama_classes_jogo_palavras.png
+
+
 
 
 
