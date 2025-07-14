@@ -43,14 +43,17 @@ A arquitetura foi pensada para ser modular e extensível, com uso de **interface
 ┣ 📜 JogoTest.java # Classe de testes
 
 
-
+---
 
 
 💬 Exemplo de execução
 Palavra embaralhada: UTOPOMRACOD
 Tente adivinhar: computador
 
+---
+
 ✅ Acertou! Pontuação: 1
+---
 
 ### Pré-requisitos:
 - Java instalado (versão 8 ou superior)
